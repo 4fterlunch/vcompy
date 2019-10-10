@@ -1,0 +1,17 @@
+{
+  "name": "vcompy",
+  "version": "1.0.0",
+  "description": "VehicleCOMputerPython OBD computer for vehicles",
+  "main": "sensorAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "obd",
+    "sensors",
+    "cars",
+    "onboard"
+  ],
+  "author": "Michael Holmes",
+  "license": "ISC"
+}

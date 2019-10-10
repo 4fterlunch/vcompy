@@ -1,4 +1,5 @@
 import random, time, json
+import obd
 
 while True:
     time.sleep(1)  # wait 0 to 5 seconds
@@ -17,4 +18,4 @@ while True:
         }
         
     }
-    print(json.dumps(sensors), flush=True, end='')
+    print(json.dumps(sensors), flush=True, end='/n')
